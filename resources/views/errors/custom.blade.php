@@ -1,0 +1,1 @@
+Exception detalles: <b> {{ $exception->getMessage() }} </b>
